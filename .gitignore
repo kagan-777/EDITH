@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.streamlit/secrets.toml
+data/
+# legacy locations from the old version
+users.json
+user_data/
+uploads/
+chroma_db/
+history.json
+stats.json
