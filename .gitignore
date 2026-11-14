@@ -13,3 +13,8 @@ uploads/
 chroma_db/
 history.json
 stats.json
+/web/node_modules/
+/web/.next/
+/web/.vercel/
+/web/out/
+/api/__pycache__/

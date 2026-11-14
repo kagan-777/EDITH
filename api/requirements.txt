@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+python-multipart>=0.0.20
+psycopg[binary]>=3.2
+vercel-blob>=0.5.0
+openai>=1.40
+python-dotenv>=1.0
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+pypdf>=4.0
+python-docx>=1.1
